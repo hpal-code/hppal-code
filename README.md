@@ -52,7 +52,7 @@ Git & GitHub
 ⭐ Stock Market Forecasting App
 
 Deep learning forecasting using LSTM, GRU & Transformers
-🔗 Repo Link: (Add your repo link here)
+🔗 Repo Link: (https://github.com/hpal-code/stock-forecasting-app.git)
 
 ⭐ Diabetes Prediction App
 
