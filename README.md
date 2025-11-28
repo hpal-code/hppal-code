@@ -57,7 +57,7 @@ Deep learning forecasting using LSTM, GRU & Transformers
 ⭐ Diabetes Prediction App
 
 Health prediction using DNN models
-🔗 Repo Link: (Add your repo link here)
+🔗 Repo Link: (https://github.com/hpal-code/Diabetes-Prediction-Web-App.git)
 
 ⭐ Customer Churn Prediction
 
