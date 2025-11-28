@@ -62,7 +62,7 @@ Health prediction using DNN models
 ⭐ Customer Churn Prediction
 
 ML dashboard with Logistic Regression & Random Forest
-🔗 Repo Link: (Add your repo link here)
+🔗 Repo Link: (https://github.com/hpal-code/Customer-Churn-Prediction-Web-App-Streamlit-.git)
 
 📊 GitHub Stats
 
